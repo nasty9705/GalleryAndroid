@@ -1,0 +1,182 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/nastytur/AndroidStudioProjects/GalleryApp/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/nastytur/AndroidStudioProjects/GalleryApp/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/nastytur/AndroidStudioProjects/GalleryApp/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/nastytur/AndroidStudioProjects/GalleryApp/app/src/main/AndroidManifest.xml:2:1-31:12
+MERGED from [com.jsibbold:zoomage:1.1.0] /Users/nastytur/.gradle/caches/transforms-1/files-1.1/zoomage-1.1.0.aar/39763194bcdd8ed70108d24a3dcc3101/AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/nastytur/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/862429b5ab0b398e036a5b42d3b2b806/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/nastytur/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/c43cb58c569de25c72c74802958e05f1/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/nastytur/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/34d9745ea78dbae869e69ff13226734a/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/nastytur/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/b8da5063f1b9ba803e288667ce303af1/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/nastytur/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/95a1b4ad0cecfb64ba898e438131383e/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /Users/nastytur/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/99e6e14e8560320779b6ba3d2e6b3d51/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/nastytur/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/fa2efb82a601155c1d652352f676f346/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/nastytur/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/bb39d99c18bb2b2aa494323f0425e0db/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/nastytur/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/718d67f99d60dafddd05a269ff842c3a/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/nastytur/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/b68d4d01db0fa12d6b3a82877f6d8397/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /Users/nastytur/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/d05f67f1067fd23638b544ef606a85d6/AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/nastytur/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/faf0d2a1f6bb02bc479777f40df9fb47/AndroidManifest.xml:17:1-30:12
+INJECTED from /Users/nastytur/AndroidStudioProjects/GalleryApp/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/nastytur/AndroidStudioProjects/GalleryApp/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/nastytur/AndroidStudioProjects/GalleryApp/app/src/main/AndroidManifest.xml:2:1-31:12
+	package
+		ADDED from /Users/nastytur/AndroidStudioProjects/GalleryApp/app/src/main/AndroidManifest.xml:3:5-40
+		INJECTED from /Users/nastytur/AndroidStudioProjects/GalleryApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nastytur/AndroidStudioProjects/GalleryApp/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/nastytur/AndroidStudioProjects/GalleryApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/nastytur/AndroidStudioProjects/GalleryApp/app/src/main/AndroidManifest.xml:2:1-31:12
+		INJECTED from /Users/nastytur/AndroidStudioProjects/GalleryApp/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/nastytur/AndroidStudioProjects/GalleryApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/nastytur/AndroidStudioProjects/GalleryApp/app/src/main/AndroidManifest.xml:2:1-31:12
+		INJECTED from /Users/nastytur/AndroidStudioProjects/GalleryApp/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/nastytur/AndroidStudioProjects/GalleryApp/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/nastytur/AndroidStudioProjects/GalleryApp/app/src/main/AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from /Users/nastytur/AndroidStudioProjects/GalleryApp/app/src/main/AndroidManifest.xml:5:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/nastytur/AndroidStudioProjects/GalleryApp/app/src/main/AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from /Users/nastytur/AndroidStudioProjects/GalleryApp/app/src/main/AndroidManifest.xml:6:22-77
+application
+ADDED from /Users/nastytur/AndroidStudioProjects/GalleryApp/app/src/main/AndroidManifest.xml:8:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/nastytur/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/862429b5ab0b398e036a5b42d3b2b806/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/nastytur/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/862429b5ab0b398e036a5b42d3b2b806/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/nastytur/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/c43cb58c569de25c72c74802958e05f1/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/nastytur/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/c43cb58c569de25c72c74802958e05f1/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/nastytur/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/34d9745ea78dbae869e69ff13226734a/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/nastytur/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/34d9745ea78dbae869e69ff13226734a/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/nastytur/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/b8da5063f1b9ba803e288667ce303af1/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/nastytur/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/b8da5063f1b9ba803e288667ce303af1/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/nastytur/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/95a1b4ad0cecfb64ba898e438131383e/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/nastytur/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/95a1b4ad0cecfb64ba898e438131383e/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/nastytur/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/99e6e14e8560320779b6ba3d2e6b3d51/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/nastytur/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/99e6e14e8560320779b6ba3d2e6b3d51/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/nastytur/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/fa2efb82a601155c1d652352f676f346/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/nastytur/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/fa2efb82a601155c1d652352f676f346/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/nastytur/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/bb39d99c18bb2b2aa494323f0425e0db/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/nastytur/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/bb39d99c18bb2b2aa494323f0425e0db/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/nastytur/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/718d67f99d60dafddd05a269ff842c3a/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/nastytur/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/718d67f99d60dafddd05a269ff842c3a/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/nastytur/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/b68d4d01db0fa12d6b3a82877f6d8397/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/nastytur/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/b68d4d01db0fa12d6b3a82877f6d8397/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/nastytur/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/d05f67f1067fd23638b544ef606a85d6/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/nastytur/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/d05f67f1067fd23638b544ef606a85d6/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/nastytur/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/faf0d2a1f6bb02bc479777f40df9fb47/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/nastytur/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/faf0d2a1f6bb02bc479777f40df9fb47/AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from /Users/nastytur/AndroidStudioProjects/GalleryApp/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /Users/nastytur/AndroidStudioProjects/GalleryApp/app/src/main/AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from /Users/nastytur/AndroidStudioProjects/GalleryApp/app/src/main/AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from /Users/nastytur/AndroidStudioProjects/GalleryApp/app/src/main/AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from /Users/nastytur/AndroidStudioProjects/GalleryApp/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /Users/nastytur/AndroidStudioProjects/GalleryApp/app/src/main/AndroidManifest.xml:14:9-40
+activity#com.androstock.galleryapp.MainActivity
+ADDED from /Users/nastytur/AndroidStudioProjects/GalleryApp/app/src/main/AndroidManifest.xml:15:9-22:20
+	android:configChanges
+		ADDED from /Users/nastytur/AndroidStudioProjects/GalleryApp/app/src/main/AndroidManifest.xml:16:13-59
+	android:name
+		ADDED from /Users/nastytur/AndroidStudioProjects/GalleryApp/app/src/main/AndroidManifest.xml:15:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/nastytur/AndroidStudioProjects/GalleryApp/app/src/main/AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from /Users/nastytur/AndroidStudioProjects/GalleryApp/app/src/main/AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from /Users/nastytur/AndroidStudioProjects/GalleryApp/app/src/main/AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/nastytur/AndroidStudioProjects/GalleryApp/app/src/main/AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from /Users/nastytur/AndroidStudioProjects/GalleryApp/app/src/main/AndroidManifest.xml:20:27-74
+activity#com.androstock.galleryapp.AlbumActivity
+ADDED from /Users/nastytur/AndroidStudioProjects/GalleryApp/app/src/main/AndroidManifest.xml:24:9-25:61
+	android:configChanges
+		ADDED from /Users/nastytur/AndroidStudioProjects/GalleryApp/app/src/main/AndroidManifest.xml:25:13-59
+	android:name
+		ADDED from /Users/nastytur/AndroidStudioProjects/GalleryApp/app/src/main/AndroidManifest.xml:24:19-48
+activity#com.androstock.galleryapp.GalleryPreview
+ADDED from /Users/nastytur/AndroidStudioProjects/GalleryApp/app/src/main/AndroidManifest.xml:27:9-28:61
+	android:configChanges
+		ADDED from /Users/nastytur/AndroidStudioProjects/GalleryApp/app/src/main/AndroidManifest.xml:28:13-59
+	android:name
+		ADDED from /Users/nastytur/AndroidStudioProjects/GalleryApp/app/src/main/AndroidManifest.xml:27:19-49
+uses-sdk
+INJECTED from /Users/nastytur/AndroidStudioProjects/GalleryApp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/nastytur/AndroidStudioProjects/GalleryApp/app/src/main/AndroidManifest.xml
+INJECTED from /Users/nastytur/AndroidStudioProjects/GalleryApp/app/src/main/AndroidManifest.xml
+MERGED from [com.jsibbold:zoomage:1.1.0] /Users/nastytur/.gradle/caches/transforms-1/files-1.1/zoomage-1.1.0.aar/39763194bcdd8ed70108d24a3dcc3101/AndroidManifest.xml:8:5-10:41
+MERGED from [com.jsibbold:zoomage:1.1.0] /Users/nastytur/.gradle/caches/transforms-1/files-1.1/zoomage-1.1.0.aar/39763194bcdd8ed70108d24a3dcc3101/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/nastytur/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/862429b5ab0b398e036a5b42d3b2b806/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/nastytur/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/862429b5ab0b398e036a5b42d3b2b806/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/nastytur/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/c43cb58c569de25c72c74802958e05f1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/nastytur/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/c43cb58c569de25c72c74802958e05f1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/nastytur/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/34d9745ea78dbae869e69ff13226734a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/nastytur/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/34d9745ea78dbae869e69ff13226734a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/nastytur/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/b8da5063f1b9ba803e288667ce303af1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/nastytur/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/b8da5063f1b9ba803e288667ce303af1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/nastytur/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/95a1b4ad0cecfb64ba898e438131383e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/nastytur/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/95a1b4ad0cecfb64ba898e438131383e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /Users/nastytur/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/99e6e14e8560320779b6ba3d2e6b3d51/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /Users/nastytur/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/99e6e14e8560320779b6ba3d2e6b3d51/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/nastytur/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/fa2efb82a601155c1d652352f676f346/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/nastytur/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/fa2efb82a601155c1d652352f676f346/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/nastytur/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/bb39d99c18bb2b2aa494323f0425e0db/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/nastytur/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/bb39d99c18bb2b2aa494323f0425e0db/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/nastytur/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/718d67f99d60dafddd05a269ff842c3a/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/nastytur/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/718d67f99d60dafddd05a269ff842c3a/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/nastytur/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/b68d4d01db0fa12d6b3a82877f6d8397/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/nastytur/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/b68d4d01db0fa12d6b3a82877f6d8397/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/nastytur/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/d05f67f1067fd23638b544ef606a85d6/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/nastytur/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/d05f67f1067fd23638b544ef606a85d6/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/nastytur/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/faf0d2a1f6bb02bc479777f40df9fb47/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/nastytur/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/faf0d2a1f6bb02bc479777f40df9fb47/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/nastytur/AndroidStudioProjects/GalleryApp/app/src/main/AndroidManifest.xml
+INJECTED from /Users/nastytur/AndroidStudioProjects/GalleryApp/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/nastytur/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/862429b5ab0b398e036a5b42d3b2b806/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/nastytur/AndroidStudioProjects/GalleryApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/nastytur/AndroidStudioProjects/GalleryApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nastytur/AndroidStudioProjects/GalleryApp/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/nastytur/AndroidStudioProjects/GalleryApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/nastytur/AndroidStudioProjects/GalleryApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nastytur/AndroidStudioProjects/GalleryApp/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/nastytur/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/862429b5ab0b398e036a5b42d3b2b806/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/nastytur/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/34d9745ea78dbae869e69ff13226734a/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/nastytur/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/34d9745ea78dbae869e69ff13226734a/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/nastytur/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/b8da5063f1b9ba803e288667ce303af1/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/nastytur/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/b8da5063f1b9ba803e288667ce303af1/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/nastytur/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/95a1b4ad0cecfb64ba898e438131383e/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/nastytur/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/95a1b4ad0cecfb64ba898e438131383e/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/nastytur/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/99e6e14e8560320779b6ba3d2e6b3d51/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/nastytur/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/99e6e14e8560320779b6ba3d2e6b3d51/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/nastytur/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/fa2efb82a601155c1d652352f676f346/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/nastytur/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/fa2efb82a601155c1d652352f676f346/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/nastytur/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/bb39d99c18bb2b2aa494323f0425e0db/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/nastytur/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/bb39d99c18bb2b2aa494323f0425e0db/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/nastytur/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/718d67f99d60dafddd05a269ff842c3a/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/nastytur/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/718d67f99d60dafddd05a269ff842c3a/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/nastytur/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/b68d4d01db0fa12d6b3a82877f6d8397/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/nastytur/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/b68d4d01db0fa12d6b3a82877f6d8397/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/nastytur/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/d05f67f1067fd23638b544ef606a85d6/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/nastytur/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/d05f67f1067fd23638b544ef606a85d6/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/nastytur/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/862429b5ab0b398e036a5b42d3b2b806/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/nastytur/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/862429b5ab0b398e036a5b42d3b2b806/AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/nastytur/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/faf0d2a1f6bb02bc479777f40df9fb47/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/nastytur/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/faf0d2a1f6bb02bc479777f40df9fb47/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/nastytur/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/faf0d2a1f6bb02bc479777f40df9fb47/AndroidManifest.xml:26:13-58
